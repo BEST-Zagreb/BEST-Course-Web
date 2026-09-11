@@ -50,3 +50,9 @@ content left in place.
 The content, images and copy belong to BEST Zagreb. Third-party theme and plugin assets under
 `wp-content/` remain under their own licences and are included only because the pages need them to
 render as they originally did.
+
+## Wayback Machine
+
+The site ran at <https://best.hr/course/>. The Internet Archive's calendar for it is <https://web.archive.org/web/*/https://best.hr/course/*>.
+Checked on 2026-09-11: captures run from 2006-10-10 to at least 2025-03-13, with 13 distinct HTML pages answering 200. A fresh capture of every published page was requested on 2026-09-11.
+This repository is the complete copy of the site as it was frozen; the archive is a partial, independent second copy.
