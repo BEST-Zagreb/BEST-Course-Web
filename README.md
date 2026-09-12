@@ -56,6 +56,10 @@ render as they originally did.
 Live at <https://course.best.hr/>, served by Cloudflare Workers as static files straight from this repository.
 Every push to `main` is deployed by Workers Builds within a minute or two. The `dev` branch deploys the same way to <https://course.dev.best.hr/> for trying changes first.
 
+## Editions
+
+Older editions live in their own repositories and year hostnames, so a rebuild of this site never touches them: the Zagreb Spring Course 2018 site is at <https://2018.course.best.hr/> ([BEST-Course-Web-2018](https://github.com/BEST-Zagreb/BEST-Course-Web-2018)). When this edition is replaced, freeze it the same way under `<year>.course.best.hr`.
+
 ## Wayback Machine
 
 The site ran at <https://best.hr/course/>. The Internet Archive's calendar for it is <https://web.archive.org/web/*/https://best.hr/course/*>.
