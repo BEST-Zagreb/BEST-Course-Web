@@ -1,3 +1,10 @@
+# Retired partner page and obsolete duplicate home page.
+/partners / 301
+/partners/ / 301
+/partners/index.html / 301
+/mesmerize / 301
+/mesmerize/ / 301
+/mesmerize/index.html / 301
 # WordPress-era addresses the frozen copy does not have. The old site answered
 # them with the home page (index.php) or an RSS feed; readers and search
 # engines still ask for them, so send each to the page it belonged to.
