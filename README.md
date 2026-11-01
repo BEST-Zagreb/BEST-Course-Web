@@ -39,6 +39,11 @@ Named personal email addresses and mobile phone numbers were replaced with the o
 address, **course@best.hr**. This archive is public and outlives the students named in it. People's names
 stay, as credit; their private contact details do not.
 
+The one deliberate exception is the current edition's organising team (Main Organiser and President),
+listed in the contact section with their phone numbers and `best-eu.org` addresses because BEST
+International asks for named responsibles. When this edition is frozen under `<year>.course.best.hr`,
+replace those details with **course@best.hr** like the rest.
+
 ### Links that led nowhere were repaired or removed
 
 Some links were already broken on the live site. Where the target still existed under a different
