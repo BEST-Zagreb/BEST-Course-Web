@@ -15,6 +15,7 @@
 #contact [data-colibri-id="412-f6"] > .h-row > .h-column { flex: 0 0 auto; width: auto; max-width: none; }
 #contact [data-colibri-id="412-f6"] .h-column__inner { padding-left: 0; padding-right: 0; }
 #contact [data-colibri-id="412-f6"] .h-svg-icon { width: 64px; height: 64px; font-size: 64px; }
+#contact [data-colibri-id="412-f14"] a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
 #features [data-colibri-id="1390-c28"], #features [data-colibri-id="1390-c33"] { width: 100%; }
 #features .style-local-1390-c28-outer, #features .style-local-1390-c33-outer { flex: 0 0 40%; max-width: 40%; }
 [data-colibri-id="406-h31"][aria-disabled="true"] { pointer-events: none; }
